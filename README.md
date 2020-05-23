@@ -1,4 +1,4 @@
-# COVID-19_Infection_Probability_Dectector
+# COVID-19 Infection Probability Detector
 A Machine Learning Model that do predict you the probability of having the infection.
 At first the model predict the probability of having the infection by the Logistic Regression.
 Keep in mind that the data is NOT real and I have assume data's features and label.
